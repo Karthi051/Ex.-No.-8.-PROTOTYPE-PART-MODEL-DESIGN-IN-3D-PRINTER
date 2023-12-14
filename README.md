@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Karthi051/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/148327224/1e8f7f58-8eec-4d73-957b-6f55f06efb33)
 
-### Name:
-### Register Number:
+
+### Name:23013936
+### Register Number:karthi keyan k
 
 ## RESULT:
-###   Thus a prototype of the given part model is developed using 3D Printer.
+Thus a prototype of the given part model is developed using 3D Printer.
